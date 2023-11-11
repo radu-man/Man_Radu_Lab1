@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Man_Radu_Lab1.props" />
+</Project>
